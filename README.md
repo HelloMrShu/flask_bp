@@ -17,6 +17,6 @@ mainly contains flask framework and practical works
 &#8195;&#8195;6 Use flask extension psutil and echarts to show cpu load dynamically
 
 # License
-MIT
+<a href='https://opensource.org/licenses/MIT'>MIT</a>
 
 Copyright (c) 2019-present
